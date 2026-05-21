@@ -1,2 +1,2 @@
 # toolbox
-Small scripts from tinkering
+Scripts for tinkering
