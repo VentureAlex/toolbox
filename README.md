@@ -34,5 +34,6 @@ cd toolbox
 Each folder contains its own README with setup and usage instructions.
 Technologies
 Python 3 • requests • pandas • python-dotenv • schedule
+```
 
 Made with curiosity and caffeine ☕
