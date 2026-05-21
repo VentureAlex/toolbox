@@ -1,0 +1,14 @@
+# Ignore environment variable files
+.env
+
+# Ignore node modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore compiled binary files
+*.exe
+*.dll
+*.so
+*.dylib
