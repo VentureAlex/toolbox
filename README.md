@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # VentureAlex Toolbox
 
 A collection of practical Python scripts for data handling, monitoring, automation, and everyday utilities.
@@ -35,6 +34,3 @@ Built for personal use but shared openly for anyone to use, learn from, or impro
 git clone https://github.com/VentureAlex/toolbox.git
 cd toolbox
 =======
-# toolbox
-Scripts for tinkering
->>>>>>> 487d6211cde1f9d9eb256045286c1a353c826adf
